@@ -14,48 +14,48 @@ The goal is to identify trends, correlations, and insights that can inform trade
 
 🔍 Research Objectives
 
-Detect trade pattern shifts based on geopolitical events.
+-- Detect trade pattern shifts based on geopolitical events.
 
-Analyze the regulatory and economic environment affecting Italy-China trade.
+-- Analyze the regulatory and economic environment affecting Italy-China trade.
 
-Apply machine learning models to predict trade trends and assess risk factors.
+-- Apply machine learning models to predict trade trends and assess risk factors.
 
 
 📊 Data Sources
 
-GDELT Dataset: Monthly event data with geopolitical and economic indicators.
+-- GDELT Dataset: Monthly event data with geopolitical and economic indicators.
 
-ISTAT Trade Data: Import/export statistics for Italy-China trade flows.
+-- ISTAT Trade Data: Import/export statistics for Italy-China trade flows.
 
 
 ⚙️ Methodology
 
-Data Collection & Preprocessing
+-- Data Collection & Preprocessing
 
-Extract GDELT events related to China, Italy, and trade.
+-- Extract GDELT events related to China, Italy, and trade.
 
-Extract ISTAT trade data.
+-- Extract ISTAT trade data.
 
-Data Integration & Analysis
+-- Data Integration & Analysis
 
-Match geopolitical events with trade fluctuations.
+-- Match geopolitical events with trade fluctuations.
 
-Identify trends and anomalies in trade patterns.
+-- Identify trends and anomalies in trade patterns.
 
-Visualization & Reporting
+-- Visualization & Reporting
 
-Generate interactive charts and dashboards.
+-- Generate interactive charts and dashboards.
 
-Machine Learning & Predictive Analysis (to do).
+-- Machine Learning & Predictive Analysis (to do).
 
-Train models to forecast trade shifts based on event-driven indicators (to do).
+-- Train models to forecast trade shifts based on event-driven indicators (to do).
 
 
 📈 Expected Outcomes
 
-A data-driven report on Italy-China trade dynamics.
+-- A data-driven report on Italy-China trade dynamics.
 
-Predictive insights on how geopolitical events impact trade.
+-- Predictive insights on how geopolitical events impact trade.
 
-Strategic recommendations for investors and policymakers.
+-- Strategic recommendations for investors and policymakers.
 
